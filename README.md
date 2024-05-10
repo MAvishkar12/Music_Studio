@@ -1,2 +1,2 @@
 # Music_Sudio
-Live link : https://music-audio-o6fw3lgpd-coder-pros-projects.vercel.app/
+Live link : https://mavishkar12.github.io/Music_Studio/
